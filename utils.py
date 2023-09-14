@@ -1,17 +1,18 @@
+import unittest
+
 class utils:
-    def numRev(int1):
+    def reversed(self, int1):
         if isinstance(int1, int):
             intReverse = 0
             while(int1 != 0):
                 intReverse = (intReverse * 10) + (int1 % 10)
                 int1 = int1//10
-            print(intReverse)
+            return intReverse
         else:
-            print("TypeError: Expected input value of integer type")
+            raise TypeError("Expected input value of integer type for reversed arg")
 
-    def binOctConversion(int2):
+    def formatter(self, int2):
         if isinstance(int2, int):
-            print(bin(int2))
-            print(oct(int2))
+            return bin(int2), oct(int2)
         else:
-            print("TypeError: Expected input value of integer type")
+            raise TypeError("TypeError: Expected input value of integer type for formatter arg")
