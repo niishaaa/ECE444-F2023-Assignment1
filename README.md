@@ -18,3 +18,7 @@
 <img width="680" alt="Screenshot 2023-09-14 at 12 27 17 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/ed9e497b-0fe4-44c3-bba7-fab8bcc3061b">
 <img width="1177" alt="Screenshot 2023-09-14 at 12 27 41 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/3dcba89b-dabb-46f5-a7ea-3e0d77dd2d22">
 
+2. Commit file "utils_tests.py" with configured unit tests
+<img width="1010" alt="Screenshot 2023-09-14 at 4 40 31 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/a0256cfc-190d-4971-8ca3-f47933418e6e">
+<img width="1199" alt="Screenshot 2023-09-14 at 4 42 37 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/cbbd8fc0-90a7-4c40-9a70-0911849bb978">
+
