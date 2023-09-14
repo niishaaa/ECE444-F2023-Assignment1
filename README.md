@@ -5,3 +5,7 @@
 
 # Activity 2: Screenshot of successful merge
 <img width="677" alt="Screenshot 2023-09-13 at 8 40 27 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/975c9add-06f3-47d7-899e-39d26add664c">
+
+# Activity 3: Screenshot of successful conflict resolve
+<img width="942" alt="Screenshot 2023-09-13 at 8 58 34 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/9be66db0-d83a-46ea-897f-d61ad833f6ac">
+
