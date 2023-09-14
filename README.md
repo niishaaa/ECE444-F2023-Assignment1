@@ -22,3 +22,14 @@
 <img width="1010" alt="Screenshot 2023-09-14 at 4 40 31 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/a0256cfc-190d-4971-8ca3-f47933418e6e">
 <img width="1199" alt="Screenshot 2023-09-14 at 4 42 37 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/cbbd8fc0-90a7-4c40-9a70-0911849bb978">
 
+# Activity 5: Screenshots of rebase
+1. Final Successful rebase in develop branch
+<img width="1264" alt="Screenshot 2023-09-14 at 5 09 42 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/837da9a6-1d76-44b2-bb4d-bc76d1d5870c">
+
+2. Successful creation of rebase branch and Commits of c1, c2, c3, c4
+<img width="837" alt="Screenshot 2023-09-14 at 5 12 41 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/63be1e2e-c6a8-4299-8b9d-36c3740d9cb1">
+
+3. Successful rebase of branch rebase to develop and final develop git log
+<img width="837" alt="Screenshot 2023-09-14 at 5 14 02 PM" src="https://github.com/niishaaa/ECE444-F2023-Assignment1/assets/98194794/35d73ac6-a747-406e-92e1-cf0bfc40203c">
+
+
